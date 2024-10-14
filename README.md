@@ -28,7 +28,7 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
   ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-212121?style=flat&logo=postgresql&logoColor=white) 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- **Testing & Tools**:  
+- **Testing**:  
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) 
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
@@ -60,7 +60,8 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/nazmuldipu/)
-- [Email](mailto:nazmuldipu@gmail.com)
+- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:nazmuldipu@example.com)
 
 ---
 
@@ -72,3 +73,9 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
 ---
 
 ![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmuldipu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmuldipu&layout=compact&theme=radical)
+
+![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazmuldipu&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nazmuldipu&color=brightgreen)
