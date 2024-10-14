@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Nazmul Alam
-- 👀 I’m interested in coding
-- 🌱 I’m currently working as a Senior Software Engineer
-- 💞️ I’m looking to collaborate on Enterprise Projects
-- 📫 How to reach me ? send me Email at nazmuldipu@gmail.com or Phone me at +88 01912 239643
-### Senior Software Engineer at CEFALO Bangladesh
-<!---
-nazmuldipu/nazmuldipu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#### This year status:
-<img src="https://github-readme-stats.vercel.app/api?username=nazmuldipu&show_icons=true&hide_border=false&theme=cobalt&icon_color=c576c2">
+### Hi there, I'm Nazmul Alam 👋
+
+I'm a Senior Software Engineer with 10+ years of experience specializing in full-stack development, performance optimization, and mentoring. Currently working at Cefalo, I'm passionate about building scalable solutions and improving web performance.
+
+### 💼 Work Experience
+- **Senior Software Engineer** at [Cefalo](https://www.cefalo.com/)
+- **Senior Front-End Developer** at [ReformedTech](https://www.reformedtech.org/)
+- Full-stack developer at UNOLO and Monerbari
+
+### 💻 Tech Stack
+- **Languages**: JavaScript, TypeScript, Java (Spring Boot)
+- **Front-end**: Angular, React, Svelte, Tailwind CSS
+- **Back-end**: Node.js, Express.js, Knex, TimescaleDB
+- **Testing**: Cypress, Jest
+
+### 🚀 Projects
+- [Next.js with LaTeX Support](link to project)
+- [Performance Optimization Techniques](link to another project)
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/nazmuldipu/)
+- [Email](mailto:your-email@example.com)
+
+![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmuldipu&show_icons=true&theme=radical)
