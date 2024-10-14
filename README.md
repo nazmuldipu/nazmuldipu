@@ -76,6 +76,7 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmuldipu&layout=compact&theme=radical)
 
-![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazmuldipu&theme=react-dark)
+![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazmuldipu&theme=react-dark)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nazmuldipu&color=brightgreen)
