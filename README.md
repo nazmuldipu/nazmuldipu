@@ -33,6 +33,11 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
+- **Trophies**
+  
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=nazmuldipu&column=7&theme=gruvbox&no-frame=true"/>
+
+---
 
 ### 🏆 What I'm Proud Of
 
