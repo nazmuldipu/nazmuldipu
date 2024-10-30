@@ -33,13 +33,13 @@ Currently, I’m working at [Cefalo](https://www.cefalo.com/), where I focus on 
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
-- **Trophies**
+### 🏆 Trophies
   
   <img width=900 src="https://github-profile-trophy.vercel.app/?username=nazmuldipu&column=7&theme=gruvbox&no-frame=true"/>
 
 ---
 
-### 🏆 What I'm Proud Of
+### 👍 What I'm Proud Of
 
 - **Performance Optimization**: I've significantly enhanced web performance metrics like **Core Web Vitals** for large-scale projects, improving load times and user experience.
   
